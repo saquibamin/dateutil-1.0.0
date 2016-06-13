@@ -9,7 +9,6 @@ public class DateUtils {
 		System.out.println(getLocalCurrentDate());
 		System.out.println("commmit 2");
 		System.out.println("commmit 3");
-		System.out.println("commmit 4");
 		
 		
 	}
